@@ -55,3 +55,5 @@ Upon launching the application in Jupyter lab notebook, run the file by using th
 ![image](https://github.com/malika0410/Module-10-Assignment/blob/main/images/pca_cluster.png)
 
 -Visualize and Compare the Results
+
+check the crypto_investments.ipynb file to see compared data for better visuals.
